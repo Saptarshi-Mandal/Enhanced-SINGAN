@@ -1,5 +1,5 @@
-# SinGAN
-This is an unofficial implementation of SinGAN from someone who's been sitting right next to SinGAN's creator for almost five years.
+# Enhanced SinGAN
+This is an improvement on an unofficial implementation of SinGAN
 
 
 <p align="center">
@@ -7,22 +7,7 @@ This is an unofficial implementation of SinGAN from someone who's been sitting r
 </p>
 
 
-Please refer the project's [page](https://tamarott.github.io/SinGAN.htm) for more details.
-
-
-
-## Citation
-If you use this code for your research, please cite the paper:
-
-```
-@inproceedings{shaham2019singan,
-  title={Singan: Learning a generative model from a single natural image},
-  author={Shaham, Tamar Rott and Dekel, Tali and Michaeli, Tomer},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={4570--4580},
-  year={2019}
-}
-```
+Please refer the project's [page](https://github.com/kligvasser/SinGAN) for the unofficial implementation.
 
 
 ## Code
@@ -32,7 +17,7 @@ If you use this code for your research, please cite the paper:
 Clone this repository into any place you want.
 
 ```
-git clone https://github.com/kligvasser/SinGAN
+git clone https://github.com/saptarshi-mandal/Enhacned-SINGAN
 cd ./SinGAN/generation/
 ```
 
