@@ -11,10 +11,10 @@ Please refer the project's [page](https://github.com/kligvasser/SinGAN) for the 
 ## Problem Statement
 
 ### Introduction
-This project aims to enhance the SinGAN model (Shaham et al., ICCV, 2019)[1] and overcome its limitations, particularly its reliance on a single input image and sensitivity to image quality. We propose to develop a more robust and versatile generative model and extend its application to medical image processing, specifically in generating images of disease-affected human organs.
+This project aims to enhance the SinGAN model (Shaham et al., ICCV, 2019)[1] and overcome its limitations, particularly its reliance on a single input image and sensitivity to image quality. We propose to develop a more robust and versatile generative model independent of input image quality.
 
 ### Objectives
-1. **Enhance Robustness:** Reduce SinGAN’s sensitivity to input image quality by developing a model that can effectively generate high-quality outputs even from noisy input images. We plan to implement the following approaches:
+**Enhance Robustness:** Reduce SinGAN’s sensitivity to input image quality by developing a model that can effectively generate high-quality outputs even from noisy input images. We plan to implement the following approaches:
     - **Introduction of Losses:**
         - **Perceptual Loss:** Euclidean distance between the feature maps of two images (generated and actual images) extracted from a pretrained image classification network such as VGG or ResNET.
         - **Total Variational Loss:** Measures the total amount of variation in the image, focusing on preserving sharp edges while smoothing out flat areas and reducing noise.
