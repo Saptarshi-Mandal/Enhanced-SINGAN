@@ -19,14 +19,13 @@ The project implements the **Enhanced SinGAN** model, a robust and versatile ver
         - **Classical Sharpening Techniques:** High Boost Filtering, Adaptive Histogram Equalization
 
 ## Results
-<p align="center">
-  <img src="/Results/results.png">
-</p>
+The following are sample images geenrated by the Enhances SinGAN model:
+
 
 For more details checkout ``` ./Results/IQA - ref and gen images.xlsx ```.
 
 ## Comparison and Analysis
-We will conduct a comparison and extensive analysis of the above modifications on the quality of the generated images.
+The following is a comparison and extensive analysis of the above modifications on the quality of the generated images.
 
 ## Code
 
