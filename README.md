@@ -11,7 +11,7 @@ Please refer the project's [page](https://github.com/kligvasser/SinGAN) for the 
 ## Problem Statement
 
 ### Introduction
-This project aims to enhance the SinGAN model (Shaham et al., ICCV, 2019)[1] and overcome its limitations, particularly its reliance on a single input image and sensitivity to image quality. We propose to develop a more robust and versatile generative model independent of input image quality.
+This project aims to enhance the SinGAN model [(Shaham et al., ICCV, 2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf) and overcome its limitations, particularly its reliance on a single input image and sensitivity to image quality. We propose to develop a more robust and versatile generative model independent of input image quality.
 
 ### Objectives
 1. **Enhance Robustness:** Reduce SinGAN’s sensitivity to input image quality by developing a model that can effectively generate high-quality outputs even from noisy input images. We plan to implement the following approaches:
