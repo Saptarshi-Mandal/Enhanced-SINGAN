@@ -2,7 +2,7 @@
 This is an improvement on an unofficial implementation of SinGAN
 
 <p align="center">
-  <img width="992" height="372" src="/figures/sampled.png">
+  <img width="992" height="372" src="/figures/intro.png">
 </p>
 
 Please refer the project's [page](https://github.com/kligvasser/SinGAN) for the unofficial implementation.
