@@ -20,9 +20,6 @@ The project implements the **Enhanced SinGAN** model, a robust and versatile ver
 
 ## Results
 The following are sample images geenrated by the Enhances SinGAN model:
-<p align="center">
-  <img src="/Results/results.png">
-</p>
 
 For more details checkout ``` ./Results/IQA - ref and gen images.xlsx ```.
 
