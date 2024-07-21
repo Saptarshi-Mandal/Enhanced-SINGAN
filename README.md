@@ -20,9 +20,8 @@ This project aims to enhance the SinGAN model (Shaham et al., ICCV, 2019)[1] and
         - **Total Variational Loss:** Measures the total amount of variation in the image, focusing on preserving sharp edges while smoothing out flat areas and reducing noise.
     - **Image Preprocessing:** Implement denoising using the following approaches on the input image before feeding it to the SinGAN network.
         - **Classical Techniques:** Mean and median filter.
-        - **Deep Learning Techniques:** Noise2Void (Krull et al. CVPR, 2019)[2].
 
-## Comparison and Analysis
+### Comparison and Analysis
 We will conduct a comparison and extensive analysis of the above modifications on the quality of the generated images.
 
 ## Results
