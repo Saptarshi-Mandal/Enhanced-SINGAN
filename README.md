@@ -20,12 +20,18 @@ The project implements the **Enhanced SinGAN** model, a robust and versatile ver
 
 ## Results
 The following are sample images geenrated by the Enhances SinGAN model:
-
+<p align="center">
+  <img src="/Results/results.png">
+</p>
 
 For more details checkout ``` ./Results/IQA - ref and gen images.xlsx ```.
 
 ## Comparison and Analysis
-The following is a comparison and extensive analysis of the above modifications on the quality of the generated images.
+Analysis of the above modifications on the quality of the generated images shows that the Enhanced SinGAN is more robust to noisy input images.
+
+<p align="center">
+  <img src="/Results/comparison.png">
+</p>
 
 ## Code
 
