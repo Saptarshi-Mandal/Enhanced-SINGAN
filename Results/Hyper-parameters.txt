@@ -1,0 +1,9 @@
+Hyperparameters:
+
+1. learning rate - 0.001
+2. number of steps - 2000
+3. scale inititalization - 0.85
+	number of scales = 15
+
+Number of parameters in generator: 29763
+Number of parameters in discriminator: 29185
